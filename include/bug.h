@@ -1,3 +1,3 @@
 #include <vector>
 
-using a = std::vector<long>::size_type;
+using size_type = std::vector<long>::size_type;
